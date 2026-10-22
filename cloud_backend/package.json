@@ -1,0 +1,10 @@
+{
+  "name": "samarth-cloud-backend",
+  "version": "1.0.0",
+  "description": "Vercel Serverless Backend for Razorpay & Auto License Generation",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
